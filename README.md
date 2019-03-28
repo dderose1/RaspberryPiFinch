@@ -71,7 +71,7 @@ This will create the ad hoc network that can be SSH'd into.
 
 ### Installing Finch Libraries
 
-The instructions for installing and configuring the official Finch libraries can be found again at [Finch's official website](http://www.finchrobot.com/learning/raspberry-pi). For the sake of efficency, I will not be outlining them here.
+The instructions for installing and configuring the official Finch libraries can be found again at [Finch's official website](http://www.finchrobot.com/learning/raspberry-pi). For the sake of simplicity, I will not be outlining them here.
 
 ### Running programs
 
