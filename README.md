@@ -9,6 +9,8 @@ The goal of this project was to make the Finch robot by BirdBrain technologies r
 
 ### Raspberry Pi Setup
 
+NOTE: THIS TUTORIAL HAS NOT BEEN UPDATED FOR RASPBIAN STRETCH. THIS TUTORIAL WORKS FOR RASPBIAN JESSIE.
+
 The instructions for installing the Raspbian operating system can be found [here](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md) and is required for the system to run properly. You should then run the commands `sudo apt-get update` and `sudo apt-get install isc-dhcp-server`. Once installed, The network settings on the Pi must be configured.
 
 ### Network Configuration
